@@ -6,10 +6,10 @@
 
 ```bash
 # 기본 설치 (프로젝트)
-npx skills add hjkim88140-creator/ux-blog-publisher
+npx skills add onlyjuya/ux-blog-publisher
 
 # 전역 설치 (-g)
-npx skills add hjkim88140-creator/ux-blog-publisher --skill ux-blog-publisher -g
+npx skills add onlyjuya/ux-blog-publisher --skill ux-blog-publisher -g
 ```
 
 *(선택)* 4단계 한국어 AI 윤문 절차를 함께 쓰려면 [`korean-humanizer`](https://github.com/NomaDamas/k-skill/blob/main/docs/features/korean-humanizer.md) 스킬도 같이 설치해 두면 좋습니다.
